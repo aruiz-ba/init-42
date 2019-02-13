@@ -1,0 +1,4 @@
+#command output expected : /etc/resolv.conf
+
+#!/bin/bash
+find "/etc/resolv.conf"
