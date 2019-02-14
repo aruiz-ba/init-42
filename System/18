@@ -1,1 +1,2 @@
-systemctl stop sshd
+#!/bin/bash
+sudo systemctl stop sshd

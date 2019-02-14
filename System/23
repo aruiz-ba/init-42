@@ -1,2 +1,2 @@
 #en session graphique : on lance la VM et on se connecte en remplissant login/mot de passe (username/password)
-#en session ssh on 2crit ssh username@ipadress puis le mot de passe
+#en session ssh on ecrit ssh username@ipadress puis le mot de passe
