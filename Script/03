@@ -1,0 +1,3 @@
+#!/bin/bash
+sudo apt-get update --yes >> update_script.log && sudo apt-get upgrade --yes >> update_script.log
+sudo mv update_script.log /var/log/
